@@ -1,0 +1,12 @@
+feedparser==6.0.11
+readability-lxml==0.8.1
+beautifulsoup4==4.12.3
+lxml==5.1.0
+gspread==6.0.0
+google-auth==2.27.0
+python-frontmatter==1.1.0
+python-slugify==8.0.1
+python-dotenv==1.0.0
+requests==2.31.0
+html2text==2024.2.26
+supabase==2.9.0
